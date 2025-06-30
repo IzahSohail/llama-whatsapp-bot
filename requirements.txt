@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+twilio
+llama-index
+llama-index-llms-gemini
+python-dotenv
+chromadb
+sentence-transformers
+pandas

@@ -1,0 +1,206 @@
+id,created_at,sid,developer,development,has_maid_room,has_air_conditioning,has_balcony_terrace,has_built_in_wadrobes,has_walk_in_closet,has_health_care_center,has_kids_play_area,has_laundry,has_sauna,has_spa,has_indoor_pool,has_lobby_reception,has_concierge,has_prayer_room,has_parking,garden,has_shared_pool,has_landmark_views,has_tennis_court,has_running_track,has_garden,has_outdoor_dining,has_outdoor_gymnasium,has_bbq_area,is_pet_friendly,property_name
+1,2024-12-14 20:43:22.765166+00,SoSkyDu1000002,Sobha,Sobha Hartland II,false,true,true,true,true,true,true,false,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Skyscape Avenue
+2,2024-12-14 20:43:22.765166+00,SoSobDu1000004,Sobha,Sobha Hartland,true,true,true,true,true,true,true,false,true,true,true,true,true,false,true,true,true,true,true,true,true,true,true,true,true,Sobha One
+3,2024-12-14 20:43:22.765166+00,MeDesDu1000014,Meraas,Dubai Design District,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Design Quarter
+4,2024-12-14 20:43:22.765166+00,MeRiwDu1000018,Meraas,Madinat Jumeirah Living,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Riwa Madinat Jumeirah Living
+5,2024-12-14 20:43:22.765166+00,NaTheDu1000021,Nakheel,Palm Jebel Ali,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,The Coral Collection Villas
+6,2024-12-14 20:43:22.765166+00,NaComDu1000031,Nakheel,Palm Jumeirah,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,Como Residences
+7,2024-12-14 20:43:22.765166+00,ArArmDu1000032,Arada,Palm Jumeirah,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,Armani Beach Residences
+8,2024-12-14 20:43:22.765166+00,RAQuaRa1000033,RAK Properties,Hayat Island,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,Quattro Del Mar
+9,2024-12-14 20:43:22.765166+00,SoSelUm1000034,Sobha,Selene Beach Residences,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,Selene Beach Residences
+10,2024-12-14 20:43:22.765166+00,SoSobDu1000037,Sobha,Sobha Elwood,true,true,true,true,true,false,true,false,true,true,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Sobha Elwood
+11,2024-12-14 20:43:22.765166+00,NaPalDu1000039,Nakheel,Palm Jumeirah,true,true,true,true,true,false,true,false,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Palm Beach Towers
+12,2024-12-14 20:43:22.765166+00,ArW RDu1000040,Arada,W Residences,true,true,true,true,true,false,true,false,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,W Residences at Dubai Harbour
+13,2024-12-14 20:43:22.765166+00,ArTheSh1000001,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,The Boulevard
+14,2024-12-14 20:43:22.765166+00,ArNesSh1000003,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,The Nest
+15,2024-12-14 20:43:22.765166+00,ArRehSh1000005,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Rehan
+16,2024-12-14 20:43:22.765166+00,So330Du1000006,Sobha,Sobha Hartland II,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,330 Riverside Crescent
+17,2024-12-14 20:43:22.765166+00,ArMisSh1000007,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Misk
+18,2024-12-14 20:43:22.765166+00,ArSarSh1000008,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Sarab
+19,2024-12-14 20:43:22.765166+00,So360Du1000009,Sobha,Sobha Hartland II,false,true,true,true,true,true,true,false,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,360 Riverside Crescent
+20,2024-12-14 20:43:22.765166+00,ArSokSh1000010,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Sokoon 3
+21,2024-12-14 20:43:22.765166+00,ArSokSh1000011,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Sokoon 4
+22,2024-12-14 20:43:22.765166+00,ArSokSh1000012,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Sokoon 5
+23,2024-12-14 20:43:22.765166+00,ArJouDu1000013,Arada,Jouri Hills,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true,true,true,true,true,Jouri Hills
+24,2024-12-14 20:43:22.765166+00,ArJouDu1000015,Arada,Jouri Hills,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true,true,true,true,true,Jouri Hills - Phase 3
+25,2024-12-14 20:43:22.765166+00,ArRovSh1000016,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,false,true,true,false,true,true,true,true,true,true,Rove Home
+26,2024-12-14 20:43:22.765166+00,SoVerDu1000017,Sobha,Verde by Sobha,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Verde
+27,2024-12-14 20:43:22.765166+00,ElVilDu1000019,Ellington,La Mer Beach,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Villa Collection La Mer
+28,2024-12-14 20:43:22.765166+00,NaNayDu1000020,Nakheel,"District One, MBR City",true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Naya Residences
+29,2024-12-14 20:43:22.765166+00,ArNasSh1000022,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Nasaq 1
+30,2024-12-14 20:43:22.765166+00,So320Du1000023,Sobha,Sobha Hartland II,false,true,true,true,true,false,true,false,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,320 Riverside Crescent
+31,2024-12-14 20:43:22.765166+00,So350Du1000024,Sobha,Sobha Hartland II,false,true,true,true,true,false,true,false,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,350 Riverside Crescent
+32,2024-12-14 20:43:22.765166+00,ArNasSh1000025,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Nasaq 2
+33,2024-12-14 20:43:22.765166+00,ArNasSh1000026,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Nasaq 3
+34,2024-12-14 20:43:22.765166+00,ArNasSh1000027,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Nasaq 4
+35,2024-12-14 20:43:22.765166+00,ArNasSh1000028,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Nasaq 5
+36,2024-12-14 20:43:22.765166+00,ArNasSh1000029,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Nasaq 6
+37,2024-12-14 20:43:22.765166+00,ArAnaSh1000030,Arada,Sharjah,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,Anantara Sharjah Residences
+38,2024-12-14 20:43:22.765166+00,SoSeaDu1000035,Sobha,Sobha SeaHaven,false,true,true,true,true,false,true,false,true,true,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,SeaHaven
+39,2024-12-14 20:43:22.765166+00,ArEasSh1000036,Arada,Aljada,false,true,true,true,false,true,true,false,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,East Village
+40,2024-12-14 20:43:22.765166+00,So310Du1000038,Sobha,Sobha Hartland II,false,true,true,true,true,false,true,false,false,false,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,310 Riverside Crescent
+41,2024-12-14 20:43:22.765166+00,SoSobUm1000041,Sobha,Sobha Siniya Island,true,true,true,true,true,false,true,false,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Beach Villas
+42,2024-12-14 20:43:22.765166+00,MeNadDu1000042,Meraas,Nad Al Sheba Gardens,true,true,true,true,true,false,true,false,true,true,true,true,true,false,true,true,true,true,true,true,true,true,true,true,true,Nad Al Sheba Gardens
+43,2024-12-14 20:43:22.765166+00,ArTirSh1000043,Arada,Aljada,false,true,true,true,false,true,true,false,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Tiraz
+44,2024-12-14 20:43:22.765166+00,NaTheDu1000044,Nakheel,Palm Jebel Ali,true,true,true,true,true,false,true,false,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,The Beach Collection Villas
+45,2024-12-14 20:43:22.765166+00,Aril Sh1000045,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,true,true,true,false,true,false,true,true,false,true,true,true,true,true,true,il teatro Residences 1
+46,2024-12-14 20:43:22.765166+00,NaRixDu1000046,Nakheel,Dubai Islands,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Rixos Beach Residences at Dubai Islands
+47,2024-12-14 20:43:22.765166+00,So340Du1000047,Sobha,Sobha Hartland II,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,340 Riverside Crescent
+48,2024-12-14 20:43:22.765166+00,Aril Sh1000048,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,true,true,true,false,true,false,true,true,false,true,true,true,true,true,true,il teatro Residences 2
+49,2024-12-14 20:43:22.765166+00,ArTheSh1000049,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,The Gate
+50,2024-12-14 20:43:22.765166+00,SoSobDu1000050,Sobha,Dubailand,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Sobha Reserve
+51,2024-12-14 20:43:22.765166+00,MeTheDu1000051,Meraas,Dubailand,true,true,true,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true,true,true,true,true,The Acres Estates
+52,2024-12-14 20:43:22.765166+00,ElTheDu1000052,Ellington,Business Bay,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,false,true,true,false,true,true,true,true,true,true,The Quayside
+53,2024-12-14 20:43:22.765166+00,ArAreSh1000053,Arada,Aljada,false,true,true,true,false,true,true,true,false,false,true,true,true,false,true,true,true,true,false,true,true,true,true,true,true,Areej Apartments
+54,2024-12-14 20:43:22.765166+00,ElClaDu1000054,Ellington,Meydan,false,true,true,true,true,true,true,true,true,true,true,true,true,false,true,false,true,true,false,true,true,true,true,true,true,Claydon House
+55,2024-12-14 20:43:22.765166+00,ElTheDu1000055,Ellington,Mohammed Bin Rashid City,false,true,true,true,true,false,true,false,false,false,false,true,true,false,true,true,true,true,false,true,true,true,true,true,true,The Sanctuary
+56,2025-01-12 16:59:52.28817+00,DaDamDu1000056,Damac,Damac Lagoons,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,false,Damac Islands
+57,2025-01-12 16:59:52.28817+00,DaDamDu1000057,Damac,Dubailand,false,,true,,false,true,true,,false,false,false,,false,,false,,true,,false,false,true,,,false,false,Damac Sun City
+58,2025-01-12 16:59:52.28817+00,DaShoDu1000058,Damac,Al Marjan,false,,true,,false,false,false,,false,false,false,,false,,false,,false,,false,false,true,,,false,false,Shoreline by Damac
+59,2025-01-12 16:59:52.28817+00,DaCouDu1000059,Damac,Business Bay,false,,true,,false,false,false,,false,false,false,,false,,false,,false,,false,false,true,,,false,false,Couture by Cavalli
+60,2025-01-12 16:59:52.28817+00,DaBayDu1000060,Danube,Business Bay,false,,true,,false,false,false,,false,false,false,,false,,false,,false,,false,false,true,,,false,false,Bayz 101
+61,2025-01-12 16:59:52.28817+00,DaBayDu1000061,Danube,Business Bay,false,,true,,false,false,false,,false,false,false,,false,,false,,false,,false,false,true,,,false,false,Bayz 102
+62,2025-01-12 16:59:52.28817+00,DaDiaDu1000062,Danube,Jumeriah Lake Towers,false,,true,,false,false,false,,false,false,false,,false,,false,,false,,false,false,true,,,false,false,Diamondz
+63,2025-01-12 16:59:52.28817+00,DaOasDu1000063,Danube,Silicon Oasis,false,,true,,false,false,false,,false,false,false,,false,,false,,false,,false,false,true,,,false,false,Oasis 1
+64,2025-01-12 16:59:52.28817+00,ElOasDu1000064,Danube,Silicon Oasis,false,,true,,false,false,false,,false,false,false,,false,,false,,false,,false,false,true,,,false,false,Oasis 2
+65,2025-01-12 16:59:52.28817+00,ElArbDu1000065,Ellington,Arjan,false,,true,,false,false,false,,false,false,false,,false,,false,,false,,false,false,true,,,false,false,Arbor View
+66,2025-01-12 16:59:52.28817+00,ElBeaDu1000066,Ellington,Palm Jumeriah,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,Beach House
+67,2025-01-12 16:59:52.28817+00,ElCalDu1000067,Ellington,Ras Al Khaimah,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,Cala Del Mar
+68,2025-01-12 16:59:52.28817+00,ElEllDu1000068,Ellington,Dubai Island,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,Ellignton Cove
+69,2025-01-12 16:59:52.28817+00,ElHouDu1000069,Ellington,Dubai Hills,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,House IV
+70,2025-01-12 16:59:52.28817+00,ElMerDu1000070,Ellington,Jumeriah Lake Towers,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,Mercer House
+71,2025-01-12 16:59:52.28817+00,ElOceDu1000071,Ellington,Palm Jumeriah,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,Ocean House
+72,2025-01-12 16:59:52.28817+00,ElOneDu1000072,Ellington,Business Bay,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,One Rive Point
+73,2025-01-12 16:59:52.28817+00,ElPalDu1000073,Ellington,Palm Jumeriah,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,Palm Jumeirah Villas
+74,2025-01-12 16:59:52.28817+00,ElPlaDu1000074,Ellington,Al Marjan,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,Playa Del Sol
+75,2025-01-12 16:59:52.28817+00,ElTheDu1000075,Ellington,Mohammed Bin Rashid City,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,The Highgrove
+76,2025-01-12 16:59:52.28817+00,EmTheDu1000076,Ellington,Silicon Oasis,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,false,The Hillgate
+77,2025-01-12 16:59:52.28817+00,EmTerDu1000077,Emaar,Expo Living,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Terra Heights
+78,2025-01-12 16:59:52.28817+00,EmAlaDu1000078,Emaar,The Valley,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Alana
+79,2025-01-12 16:59:52.28817+00,EmAveDu1000079,Emaar,The Valley,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Avena
+80,2025-01-12 16:59:52.28817+00,EmAveDu1000080,Emaar,The Valley,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Avena 2
+81,2025-01-12 16:59:52.28817+00,EmAltDu1000081,Emaar,Dubai Creek Harbour,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Altus
+82,2025-01-12 16:59:52.28817+00,EmFarDu1000082,Emaar,The Valley,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Farm Grove
+83,2025-01-12 16:59:52.28817+00,EmGolDu1000083,Emaar,Emaar South,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Golf Acres
+84,2025-01-12 16:59:52.28817+00,EmGolDu1000084,Emaar,Emaar South,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Golf Dale
+85,2025-01-12 16:59:52.28817+00,EmHilDu1000085,Emaar,Dubai Hills,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Hillsedge
+86,2025-01-12 16:59:52.28817+00,EmEleDu1000086,Emaar,The Valley,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Elea
+87,2025-01-12 16:59:52.28817+00,EmAddDu1000087,Emaar,Al Marjan,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Address Residences
+88,2025-01-12 16:59:52.28817+00,EmCluDu1000088,Emaar,Dubai Hills,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Club Palace Dubai
+89,2025-01-12 16:59:52.28817+00,EmGolDu1000089,Emaar,Dubai Hills,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Golf Hillside
+90,2025-01-12 16:59:52.28817+00,EmMarDu1000090,Emaar,Dubai Marina,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Marina Cove
+91,2025-01-12 16:59:52.28817+00,EmVidDu1000091,Emaar,Dubai Hills,false,,true,,false,true,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Vida Residences Club Point
+92,2025-01-12 16:59:52.28817+00,EmManDu1000092,Emaar,Dubai Creek Harbour,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Mangrove
+93,2025-01-12 16:59:52.28817+00,NaCedDu1000093,Emaar,Dubai Creek Harbour,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Cedar
+94,2025-01-12 16:59:52.28817+00,BiBayDu1000094,Nakheel,Dubai Island,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,true,true,,,true,true,Bay Residences
+95,2025-01-12 16:59:52.28817+00,BiBugDu1000095,Binghatti,Business Bay,false,,true,,true,true,true,,true,true,true,,true,,true,,true,,false,true,true,,,false,true,Bugatti Residences
+96,2025-01-12 16:59:52.28817+00,BiMerDu1000096,Binghatti,Downtown,false,,true,,true,true,true,,true,true,true,,true,,true,,true,,false,true,true,,,false,true,Mercedes Benz Places
+97,2025-01-12 16:59:52.28817+00,BiBurDu1000097,Binghatti,Business Bay,false,,true,,true,true,true,,true,true,true,,true,,true,,true,,false,true,true,,,false,true,Burj Jacob and Co Residences
+98,2025-01-12 16:59:52.28817+00,BiRubDu1000098,Binghatti,Jumeirah Village Triangle,false,,true,,true,true,true,,true,true,true,,true,,true,,true,,false,true,true,,,false,true,Ruby
+99,2025-01-12 16:59:52.28817+00,BiSkyDu1000099,Binghatti,Production City,false,,true,,true,true,true,,true,true,true,,true,,true,,true,,false,true,true,,,false,true,Skyrise
+100,2025-01-12 16:59:52.28817+00,BiHilDu1000100,Binghatti,Al Barsha,false,,true,,true,true,true,,true,true,true,,true,,true,,true,,false,true,true,,,false,true,Hills Views
+101,2025-01-12 16:59:52.28817+00,BiRoyDu1000101,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Royale
+102,2025-01-12 16:59:52.28817+00,BiPheDu1000102,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Pheonix
+103,2025-01-12 16:59:52.28817+00,BiGalDu1000103,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Galaxy
+104,2025-01-12 16:59:52.28817+00,BiPhaDu1000104,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Phantom
+105,2025-01-12 17:30:23.156819+00,BiAzuDu1000105,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Azure
+106,2025-01-12 17:30:23.156819+00,BiAmbDu1000106,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Amber
+107,2025-01-12 17:30:23.156819+00,BiOnyDu1000107,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Onyx
+108,2025-01-12 17:30:23.156819+00,BiLavDu1000108,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Lavender
+109,2025-01-12 17:30:23.156819+00,BiGarDu1000109,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Gardenia
+110,2025-01-12 17:30:23.156819+00,BiTulDu1000110,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Tulip
+111,2025-01-12 17:30:23.156819+00,BiIvoDu1000111,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Ivory
+112,2025-01-12 17:30:23.156819+00,GhoDu1000112,Binghatti,Jumeirah Village Circle,false,,true,,false,false,true,,false,false,false,,true,,true,,true,,false,false,false,,,true,true,Ghost
+113,2024-02-01 19:42:01.237834+00,SoSolDu1000113,Sobha,Motor City,false,true,true,true,false,false,true,false,false,false,false,true,false,false,true,true,true,true,false,false,true,false,false,false,false,Sobha Solis
+114,2024-02-01 19:42:01.237834+00,MeBayUm1000114,Meraas,Sobha Siniya,false,true,true,true,true,false,true,false,false,false,false,true,false,false,true,true,true,true,false,false,true,true,false,false,false,Bayside Marina Residences
+115,2024-02-01 19:42:01.237834+00,ArCitDu1000115,Arada,City Walk,false,true,true,true,false,false,true,false,false,false,false,true,false,false,true,true,true,true,true,true,true,false,true,false,false,City Walk Crestlane
+116,2024-02-01 19:42:01.237834+00,VidSh1000116,Arada,Aljada,false,true,true,true,false,false,true,true,false,false,false,true,true,false,true,true,true,true,false,false,true,false,false,false,false,Vida Residences Aljada
+117,2024-03-15 19:42:01.237834+00,DAAutDu1000117,DAMAC,Damac Hills,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,true,true,Autograph Collection
+118,2024-03-15 19:42:01.237834+00,DACavDu1000118,DAMAC,Dubai Media City,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Cavalli Casa Tower
+119,2024-03-15 19:42:01.237834+00,DADamDu1000119,DAMAC,Damac Lagoons,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,true,true,true,,,true,true,Damac Lagoons Ibiza
+120,2024-03-15 19:42:01.237834+00,DADamDu1000120,DAMAC,Damac Lagoons,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,true,true,true,,,true,true,Damac Lagoons Marbella
+121,2024-03-15 19:42:01.237834+00,DADamDu1000121,DAMAC,Damac Lagoons,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,true,true,true,,,true,true,Damac Lagoons Nice
+122,2024-03-15 19:42:01.237834+00,DADamDu1000122,DAMAC,Damac Hills 2,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,false,false,true,,,true,true,Damac Elo
+123,2024-03-15 19:42:01.237834+00,DAEveDu1000123,DAMAC,Damac Hills 2,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,false,false,true,,,true,true,Evergreens
+124,2024-03-15 19:42:01.237834+00,DALagDu1000124,DAMAC,Damac Lagoons,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,false,false,true,,,true,true,Lagoons Views
+125,2024-03-15 19:42:01.237834+00,DADamDu1000125,DAMAC,Damac Riverside,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Damac Riverside
+126,2024-03-15 19:42:01.237834+00,DASafDu1000126,DAMAC,Safa Park,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Safa Gate
+127,2024-03-15 19:42:01.237834+00,DAVioDu1000127,DAMAC,Damac Hills 2,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,false,false,true,,,true,true,Violet
+128,2024-03-15 19:42:01.237834+00,DAAmaDu1000128,DAMAC,Damac Hills 2,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,false,false,true,,,true,true,Amargo
+129,2024-03-15 19:42:01.237834+00,DABayDu1000129,DAMAC,Beach Front,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Bay 2 By Cavalli
+130,2024-03-15 19:42:01.237834+00,DABayDu1000130,DAMAC,Beach Front,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Bay By Cavalli
+131,2024-03-15 19:42:01.237834+00,DABelDu1000131,DAMAC,Damac Hills,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,false,false,true,,,true,true,Belair At The Trump Estates
+132,2024-03-15 19:42:01.237834+00,DACanDu1000132,DAMAC,Business Bay,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Canal Crown 2 Altitude
+133,2024-03-15 19:42:01.237834+00,DACanDu1000133,DAMAC,Business Bay,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Canal Crown
+134,2024-03-15 19:42:01.237834+00,DACanDu1000134,DAMAC,Business Bay,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Canal Heights
+135,2024-03-15 19:42:01.237834+00,DAChiDu1000135,DAMAC,Business Bay,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Chic Tower
+136,2024-03-15 19:42:01.237834+00,DACasDu1000136,DAMAC,Dubai Media City,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Casa
+137,2024-03-15 19:42:01.237834+00,DAGolDu1000137,DAMAC,Damac Hills,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,false,false,true,,,true,true,Golf Gate 2
+138,2024-03-15 19:42:01.237834+00,DAGolDu1000138,DAMAC,Damac Hills,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,false,false,true,,,true,true,Golf Greens
+139,2024-03-15 19:42:01.237834+00,DAHarDu1000139,DAMAC,Maritime City,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Harbour Lights
+140,2024-03-15 19:42:01.237834+00,DAMykDu1000140,DAMAC,Damac Lagoons,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,true,true,true,,,true,true,Mykonos Lagoons
+141,2024-03-15 19:42:01.237834+00,DASafDu1000141,DAMAC,Safa Park,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Safa One
+142,2024-03-15 19:42:01.237834+00,DASafDu1000142,DAMAC,Business Bay,true,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Safa Two
+143,2024-03-15 19:42:01.237834+00,DAUtoDu1000143,DAMAC,Damac Hills,true,,true,,true,false,true,,true,true,false,,true,,true,,true,,true,true,true,,,true,true,Utopia
+144,2024-03-15 19:42:01.237834+00,DAVolDu1000144,DAMAC,Business Bay,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Volta Tower
+145,2024-03-15 19:42:01.237834+00,AZAmbDu1000145,AZIZI,Jebel Ali Village,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Amber By Azizi
+146,2024-03-15 19:42:01.237834+00,AZAriDu1000146,AZIZI,Jebel Ali Freezone Extension,false,,true,,false,false,false,,false,false,false,,false,,true,,true,,false,false,false,,,false,true,Arian
+147,2024-03-15 19:42:01.237834+00,AZAziDu1000147,AZIZI,Jebel Ali Village,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Azizi Jewel
+148,2024-03-15 19:42:01.237834+00,AZAziDu1000148,AZIZI,Jebel Ali Village,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Azizi Neila
+149,2024-03-15 19:42:01.237834+00,AZAziDu1000149,AZIZI,Jumeirah Village Triangle,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Azizi Ruby
+150,2024-03-15 19:42:01.237834+00,AZAziDu1000150,AZIZI,Dubai South,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Azizi Venice
+151,2024-03-15 19:42:01.237834+00,AZAziDu1000151,AZIZI,Dubai Islands,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Azizi Wasel
+152,2024-03-15 19:42:01.237834+00,AZAziDu1000152,AZIZI,Jebel Ali Village,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Azizi Zain
+153,2024-03-15 19:42:01.237834+00,AZBeaDu1000153,AZIZI,Dubai Studio City,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Beach Oasis
+154,2024-03-15 19:42:01.237834+00,AZCenDu1000154,AZIZI,Al Furjan,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Central
+155,2024-03-15 19:42:01.237834+00,AZCreDu1000155,AZIZI,Al Jaddaf,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Creek Views 2
+156,2024-03-15 19:42:01.237834+00,AZCreDu1000156,AZIZI,Al Jaddaf,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Creek Views 3
+157,2024-03-15 19:42:01.237834+00,AZAziDu1000157,AZIZI,Dubai Sports City,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Azizi Grand
+158,2024-03-15 19:42:01.237834+00,AZMonDu1000158,AZIZI,Dubai South,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Monaco Mansions
+159,2024-03-15 19:42:01.237834+00,AZRivDu1000159,AZIZI,Meydan One,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Riviera
+160,2024-03-15 19:42:01.237834+00,AZAziDu1000160,AZIZI,Dubai Studio City,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Azizi Vista
+161,2024-03-15 19:42:01.237834+00,EMAeoDu1000161,EMAAR,Dubai Creek Harbour,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Aeon
+162,2024-03-15 19:42:01.237834+00,EMAnyDu1000162,EMAAR,Arabian Ranches 3,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Anya 2
+163,2024-03-15 19:42:01.237834+00,EMBayDu1000163,EMAAR,Dubai Harbour,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Bayview By Address
+164,2024-03-15 19:42:01.237834+00,EMCreDu1000164,EMAAR,Dubai Creek Harbour,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,true,false,,,true,true,Creek Beach Savanna
+165,2024-03-15 19:42:01.237834+00,EMCreDu1000165,EMAAR,Dubai Creek Harbour,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,false,,,false,true,Creek Palace Residences
+166,2024-03-15 19:42:01.237834+00,EMGolDu1000166,EMAAR,Emaar South,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,true,true,true,,,false,true,Golf Edge
+167,2024-03-15 19:42:01.237834+00,EMGolDu1000167,EMAAR,Emaar South,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,true,true,true,,,false,true,Golf Point
+168,2024-03-15 19:42:01.237834+00,EMGreDu1000168,EMAAR,Emaar South,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,true,true,true,,,false,true,Greenspoint
+169,2024-03-15 19:42:01.237834+00,EMGreDu1000169,EMAAR,Emaar South,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,true,true,true,,,false,true,Greenville 2
+170,2024-03-15 19:42:01.237834+00,EMMarDu1000170,EMAAR,Mina Rashid,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Marina Place 2
+171,2024-03-15 19:42:01.237834+00,EMMooDu1000171,EMAAR,Dubai Creek Harbour,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Moor
+172,2024-03-15 19:42:01.237834+00,EMOceDu1000172,EMAAR,Mina Rashid,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Ocean Cove
+173,2024-03-15 19:42:01.237834+00,EMOriDu1000173,EMAAR,Dubai Creek Harbour,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Oria
+174,2024-03-15 19:42:01.237834+00,EMParDu1000174,EMAAR,Dubai Hills,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Parkside Views
+175,2024-03-15 19:42:01.237834+00,EMParDu1000175,EMAAR,Dubai Hills,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Parkwood
+176,2024-03-15 19:42:01.237834+00,EMPieDu1000176,EMAAR,Mina Rashid,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Pier Point
+177,2024-03-15 19:42:01.237834+00,EMPorDu1000177,EMAAR,Mina Rashid,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Porto View
+178,2024-03-15 19:42:01.237834+00,EMSeaDu1000178,EMAAR,Dubai Harbour,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Seapoint
+179,2024-03-15 19:42:01.237834+00,EMTheDu1000179,EMAAR,Dubai Harbour,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,The Bristol
+180,2024-03-15 19:42:01.237834+00,EMValDu1000180,EMAAR,Dubai Creek Harbour,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Valo
+181,2024-03-15 19:42:01.237834+00,OMAnwDu1000181,OMNIYAT,Maritime City,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Anwa Aria
+182,2024-03-15 19:42:01.237834+00,OMSarDu1000182,OMNIYAT,Maritime City,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Saria
+183,2024-03-15 19:42:01.237834+00,OMSenDu1000183,OMNIYAT,Maritime City,false,,true,,false,false,true,,false,false,false,,false,,true,,true,,false,false,true,,,false,true,Sensia
+184,2024-03-15 19:42:01.237834+00,OMAlbDu1000184,OMNIYAT,Palm Jumeirah,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,false,true,Alba Dorchester Collection
+185,2024-03-15 19:42:01.237834+00,OMOrlDu1000185,OMNIYAT,Palm Jumeirah,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,false,true,Orla Dorchester Collection
+186,2024-03-15 19:42:01.237834+00,OMVelDu1000186,OMNIYAT,Business Bay,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,false,true,Vela Dorchester Collection
+187,2024-03-15 19:42:01.237834+00,OMVelDu1000187,OMNIYAT,Business Bay,false,,true,,true,false,true,,true,true,true,,true,,true,,true,,false,false,true,,,false,true,Vela Viento
+188,2025-04-13 19:42:01.237834+00,MaMecDu1000188,MARDI,Mardi Aquapark Residences & Resort,false,,true,,false,false,true,,false,true,true,,true,,true,,true,,false,false,false,,,false,false,"Mecure Hotel Aquapark "
+189,2025-04-13 19:42:01.237834+00,MaMarDu1000189,MARDI,Mardi Aquapark Residences & Resort,false,,true,,false,true,true,,true,true,true,,true,,true,,true,,true,true,true,,,true,true,Mardi Aquapark Residences
+190,2025-04-13 19:42:01.237834+00,MaBatDu1000190,MARDI,Batumi Hills,false,,true,,false,true,true,,true,true,false,,true,,true,,true,,true,true,true,,,false,true,Batumi Hills Handwritten Collection
+191,2025-04-13 19:42:01.237834+00,MaNovDu1000190,MARDI,Novotel Living,false,,true,,false,false,true,,true,true,false,,true,,true,,true,,false,false,true,,,false,false,Novotel Living
+192,2024-05-15 18:42:01.237834+00,EMEmaDu1000192,EMAAR,Dubai Investment Park,true,true,true,true,true,true,true,true,true,true,false,true,true,true,true,,true,true,true,true,true,true,true,true,true,Grand Polo Club and Resort
+193,2024-05-15 18:42:01.237834+00,REBraAb1000193,REPORTAGE,Al Raha Beach,true,true,true,true,true,true,false,true,true,true,false,true,true,true,true,,true,true,false,false,true,false,false,false,false,Brabus Island
+194,2024-05-15 18:42:01.237834+00,SOSobUm1000194,SOBHA,Downtown Umm Al Quwain,false,true,true,true,true,true,true,true,true,true,true,true,true,true,true,,true,true,true,true,true,true,true,false,true,Sobha Aquamont
+195,2024-05-15 18:42:01.237834+00,SOSobDu1000195,SOBHA,Jumeirah Lakes Towers,false,true,true,true,true,true,true,true,true,true,true,true,true,true,true,,true,true,true,true,true,true,true,false,false,Sobha Central
+196,2024-05-15 18:42:01.237834+00,MEJumDu1000196,MERAAS,Jumeirah,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,,true,true,true,true,true,true,false,true,true,Jumeirah Asora Bay
+197,2024-05-15 18:42:01.237834+00,MEAteDu1000197,MERAAS,Dubai Design District,false,true,true,true,true,false,true,true,true,true,false,true,true,true,true,,true,true,true,true,true,true,false,false,false,Atelis at D3
+198,2024-05-15 18:42:01.237834+00,MEJumDu1000198,MERAAS,Dubai Financial Centre,false,true,true,true,true,true,true,true,true,true,true,true,true,true,true,,true,true,true,false,false,true,false,false,false,Jumeirah Residences Emirates Towers
+199,2024-05-15 18:42:01.237834+00,SAIbiDu1000199,SAMANA,Dubai Land,false,true,true,true,false,false,true,false,true,true,true,true,false,true,true,,true,true,false,false,true,false,false,false,true,Samana Ibiza
+200,2024-05-15 18:42:01.237834+00,SABarDu1000200,SAMANA,Marjan,false,true,true,true,false,false,true,false,true,true,true,true,false,true,true,,true,true,false,false,true,false,false,false,true,Barari Views
+201,2024-05-15 18:42:01.237834+00,SAResDu1000201,SAMANA,Dubai Production City,false,true,true,true,false,false,true,false,true,true,true,true,false,true,true,,true,true,false,true,true,true,true,true,true,Samana Resorts
+202,2024-05-15 18:42:01.237834+00,SABarDu1000202,SAMANA,Marjan,false,true,true,true,false,false,true,false,true,true,true,true,false,true,true,,true,true,false,false,true,false,true,false,true,Barari Heights
+203,2024-05-15 18:42:01.237834+00,SAParDu1000203,SAMANA,Dubai Land,false,true,true,true,false,false,true,false,true,false,true,true,false,true,true,,true,true,false,false,true,false,false,false,true,Samana Parkville
+204,2024-05-15 18:42:01.237834+00,SABarDu1000204,SAMANA,Marjan,false,true,true,true,false,false,true,false,true,true,true,true,false,true,true,,true,true,false,false,true,false,false,false,true,Barari Twin Towers
+205,2024-05-15 18:42:01.237834+00,SARomDu1000205,SAMANA,Mohammed Bin Rashid City,false,true,true,true,false,false,true,false,true,true,true,true,false,true,true,,true,true,false,true,true,false,true,false,true,Samana Rome
